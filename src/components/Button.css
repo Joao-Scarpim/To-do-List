@@ -1,0 +1,15 @@
+button {
+    background-color: orangered;
+    border: none;
+    color: #333;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 6px;
+    transition: all 0.5s ease;
+    font-weight: bold;
+}
+
+button:hover {
+    color: orangered;
+    background-color: #333;
+}
